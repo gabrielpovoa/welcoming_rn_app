@@ -19,8 +19,9 @@ A simple project where I Introduced myself to learn about
 ## For some reason the image doesn't appper on the second page on web expo snack veriosn 
 <br/>
 <br/>
-![Mobile version on Iphone xr](src\IMG_3534.PNG "GMobile version on Iphone xr")
+
+<img src="./src/IMG_3534.PNG" />
 
 Take a Look how it looks
 
-![Gif React Native App](src\rn_app.gif "Gif React Native App")
+<img src="./src/rn_app.gif" />
